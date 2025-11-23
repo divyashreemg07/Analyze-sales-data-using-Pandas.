@@ -91,11 +91,11 @@ The analysis uses `sales_dataset.csv`, which contains:
 ######## How to Run the Notebook
 
 1.  Install requirements:
+2.  
+        - pip install pandas matplotlib
 
-        - pip install pandas matplotlib notebook
+3.  Launch Jupyter Notebook:
 
-2.  Launch Jupyter Notebook:
+        - Jupyter Notebook
 
-        - jupyter notebook
-
-3.  Open `sales.ipynb` and run all cells.
+4.  Open `sales.ipynb` and run all cells.
